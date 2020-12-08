@@ -139,6 +139,12 @@ main {
     max-height: 200px;
 }
 
+.service h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
 
 
 /* FOOTER */
