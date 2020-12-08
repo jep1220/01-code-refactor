@@ -1,0 +1,19 @@
+
+HTML notes:
+
+-Added spaces & comments between each element for easier ID
+-Added alt text to the header background image
+
+<main>
+section id: social media marketing: Fixed Alt description
+
+
+
+CSS notes:
+
+-reorganized 'text stlyles' to follow semantic structure
+-reorganized 'body' to follow semantic structure
+-reorganized 'main' to follow semantic structure
+-removed .serviceh2 as it served no function
+
+
